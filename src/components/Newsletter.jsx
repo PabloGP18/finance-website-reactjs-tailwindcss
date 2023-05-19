@@ -8,7 +8,7 @@ const Newsletter = () => {
           <h1 className='py-2 text-2xl font-bold sm:text-3xl md:text-4xl'>
             Wants tips & tricks to optimize your flow?
           </h1>
-          <p>Si gn up to our newsletter and stay up to date.</p>
+          <p>Sign up to our newsletter and stay up to date.</p>
         </div>
         <div className='my-4'>
           <div className='flex flex-col items-center justify-between md:flex-row '>
