@@ -1,6 +1,8 @@
 # React JS & Tailwind CSS Mobile Responsive Website
 
-This project demonstrates the construction of a 100% mobile responsive website from scratch using React JS and Tailwind CSS.
+This project showcases the process of building a 100% mobile-responsive landing page from scratch, utilizing React JS and Tailwind CSS. At the moment, the landing page is not equipped with functionality. The primary objective of this project was to learn how to work with Tailwind CSS effectively.
+
+The website has been deployed on Netlify and is available for public viewing. If you're interested, [feel free to check it out](https://finance-strategy.netlify.app).
 
 ## Overview
 
