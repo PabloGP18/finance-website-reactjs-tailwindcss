@@ -26,12 +26,12 @@ const Cards = () => {
             src={Double}
             alt='/'
           />
-          <h2 className='py-8 text-center text-2xl font-bold'>Single User</h2>
+          <h2 className='py-8 text-center text-2xl font-bold'>Double User</h2>
           <p className='text-center text-4xl font-bold'>$149</p>
           <div className='text-center font-medium'>
-            <p className='mx-8 mt-8 border-b py-2'>500 GB Storage</p>
-            <p className='mx-8 border-b py-2'>1 Granted User</p>
-            <p className='mx-8 border-b py-2'>Send up 2 GB</p>
+            <p className='mx-8 mt-8 border-b py-2'>2 GB Storage</p>
+            <p className='mx-8 border-b py-2'>2 Granted Users</p>
+            <p className='mx-8 border-b py-2'>Send up 4 GB</p>
           </div>
           <button className='mx-auto my-6 w-[200px] rounded-md bg-black px-6 py-3 font-medium text-[#00df9a]'>
             Start Trial
@@ -39,12 +39,12 @@ const Cards = () => {
         </div>
         <div className='flex w-full flex-col rounded-lg p-4 shadow-xl duration-300 hover:scale-105'>
           <img className='mx-auto mt-[-3] w-20' src={Triple} alt='/' />
-          <h2 className='py-8 text-center text-2xl font-bold'>Single User</h2>
+          <h2 className='py-8 text-center text-2xl font-bold'>Triple User</h2>
           <p className='text-center text-4xl font-bold'>$149</p>
           <div className='text-center font-medium'>
-            <p className='mx-8 mt-8 border-b py-2'>500 GB Storage</p>
-            <p className='mx-8 border-b py-2'>1 Granted User</p>
-            <p className='mx-8 border-b py-2'>Send up 2 GB</p>
+            <p className='mx-8 mt-8 border-b py-2'>4 GB Storage</p>
+            <p className='mx-8 border-b py-2'>3 Granted Users</p>
+            <p className='mx-8 border-b py-2'>Send up 6 GB</p>
           </div>
           <button className='mx-auto my-6 w-[200px] rounded-md bg-[#00df9a] px-6 py-3 font-medium text-black'>
             Start Trial
