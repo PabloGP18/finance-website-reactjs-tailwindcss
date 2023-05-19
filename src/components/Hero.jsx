@@ -4,14 +4,14 @@ import Typed from 'react-typed'
 const Hero = () => {
   return (
     <div className='text-white'>
-      <div className='mx-auto mt-[-96px] flex h-screen w-full max-w-[800px] flex-col justify-center text-center'>
+      <div className='tablet-landscape:h-115vh mx-auto mt-[-96px] flex h-screen w-full max-w-[800px] flex-col justify-center text-center mobile-landscape:h-160vh '>
         <p className='p-2 font-bold text-[#00df9a]'>
           GROWING WITH DATA ANALYTICS
         </p>
-        <h1 className='text-4xl font-bold sm:text-6xl md:py-6 md:text-7xl'>
+        <h1 className='text-4xl font-bold sm:text-6xl md:pt-6 md:text-7xl'>
           Grow with data
         </h1>
-        <div className='flex justify-center md:py-4'>
+        <div className='flex justify-center py-2 sm:py-4'>
           <p className=' text-xl font-bold sm:text-4xl md:text-5xl'>
             fast, flexible financing for
           </p>
