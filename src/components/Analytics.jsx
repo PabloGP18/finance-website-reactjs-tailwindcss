@@ -11,7 +11,7 @@ const Analytics = () => {
           <h1 className='sm:text-xl2 py-2 text-center text-2xl font-bold sm:text-left md:text-xl'>
             Manage Data Analytics Centrally
           </h1>
-          <p className='text-center sm:text-left'>
+          <p className='text-center sm:text-center md:text-left'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Necessitatibus placeat deserunt exercitationem ducimus unde. Facilis
             dolor blanditiis saepe facere atque eligendi fugit temporibus, ea
